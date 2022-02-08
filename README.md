@@ -26,9 +26,13 @@ Each row on the micro:bit's LED display shows:
 - no light at all if it's the letter isn't in the word.
 
 The console also prints out your progress like this:
---a-T
+
+`--a-T`
+
 Lower case letters are in the wrong place.
+
 So 'a' is in the word but in the wrong place.
+
 Upper case letters are in the right place, so this word ends in 'T'.
 
 There's a video about the program and how it works: https://youtu.be/YSkGlyjsL-8

@@ -3,12 +3,14 @@
 A micro:bit Python version of a popular word guessing game.
 
 ## How to load it
+You need a browser like Chrome or Edge that supports WebUSB and you'll need to use a Python editor that has a serial console like the main or alpha micro:bit online Python editors.
 The simplest way is to download the HEX file and drag and drop it onto a micro:bit.
 You can also drag and drop the HEX file onto the Python editor https://python.microbit.org/v/alpha
-Then click 'connect', flash the program and open the serial console.
+Then click 'connect', flash the program and open the serial console ('show serial').
 The program consists of two files:
 - main.py is the main program
-- word.py comtains the word list in a separate file (to make it a bit harder to cheat). You can add as many words as you like to this list.
+- word.py contains the word list in a separate file (to make it a bit harder to cheat). You can add as many words as you like to this list.
+You could also load main.py and then word.py in the Python editor and then flash them to a micro:bit.
 
 
 ## How to play

@@ -18,7 +18,7 @@ You could also load main.py and then word.py in the Python editor and then flash
 
 
 ## How to play
-You get 5 turns.
+You get 5 turns. The program picks a word at random from the word list. You can add more of your own words to words.py
 Type your guess in on your computer keyboard.
 Each row on the micro:bit's LED display shows:
 - a bright light for a correct letter in the correct place
@@ -34,6 +34,12 @@ Lower case letters are in the word but in the wrong place.
 So 'a' is in the word but it's in the wrong place.
 
 Upper case letters are in the right place, so we know this word ends in 'T'.
+
+If you run out of guesses, it tells you what the word was.
+
+If you get it right, it gives you your score.
+
+In either case after a short pause it picks a new word for you.
 
 There's a video about the program and how it works: https://youtu.be/YSkGlyjsL-8
 

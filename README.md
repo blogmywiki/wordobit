@@ -26,3 +26,15 @@ So 'a' is in the word but in the wrong place.
 Upper case letters are in the right place, so this word ends in 'T'.
 
 There's a video about the program and how it works: https://youtu.be/YSkGlyjsL-8
+
+## What is it good for?
+You could use this to teach:
+- Some Python
+- Using the BBC micro:bit
+- Using procedures / functions
+- Scope of variables in functions
+- Parsing strings
+
+You could also easily extend this by adding some simple encryption like ROT-13 to the word list to make it harder to cheat.
+
+![Screenshot from video](/images/screenshot.png)

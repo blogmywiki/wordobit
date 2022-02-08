@@ -29,11 +29,11 @@ The console also prints out your progress like this:
 
 `--a-T`
 
-Lower case letters are in the wrong place.
+Lower case letters are in the word but in the wrong place.
 
-So 'a' is in the word but in the wrong place.
+So 'a' is in the word but it's in the wrong place.
 
-Upper case letters are in the right place, so this word ends in 'T'.
+Upper case letters are in the right place, so we know this word ends in 'T'.
 
 There's a video about the program and how it works: https://youtu.be/YSkGlyjsL-8
 
